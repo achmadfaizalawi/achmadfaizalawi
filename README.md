@@ -26,6 +26,10 @@ Deepening my understanding of Flutter for mobile app development and Laravel for
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadfaizalawi&show_icons=true&hide=stars&count_private=true&theme=radical)
 
+## Programming Language Statistics 📈
+
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfaizalawi&layout=compact&theme=radical)
+
 ## Connect with Me 🤝
 
 Feel free to connect with me through:
