@@ -31,4 +31,5 @@ Deepening my understanding of Flutter for mobile app development and Laravel for
 Feel free to connect with me through:
 
 - Email: [achmadfaizalawi@gmail.com](mailto:achmadfaizalawi@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/achmad-faiz-alawi-562934194/)
+- LinkedIn: [Achmad Faiz Alawi](https://www.linkedin.com/in/achmad-faiz-alawi-562934194/)
+- Instagram: [aalfaizalawi](https://www.instagram.com/aalfaizalawi/)
