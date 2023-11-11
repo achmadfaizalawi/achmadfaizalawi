@@ -21,3 +21,10 @@ Designing the future with Flutter and Laravel. Merging the sleek user interfaces
 ## Fluttering into Mobile, Laraveling the Backend 💼📱
 
 Deepening my understanding of Flutter for mobile app development and Laravel for backend management. Let's connect and share experiences!
+
+## Connect with Me 🤝
+
+Feel free to connect with me through:
+
+- Email: [achmadfaizalawi@gmail.com](mailto:achmadfaizalawi@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/achmad-faiz-alawi-562934194/)
