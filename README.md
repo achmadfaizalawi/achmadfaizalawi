@@ -22,6 +22,10 @@ Designing the future with Flutter and Laravel. Merging the sleek user interfaces
 
 Deepening my understanding of Flutter for mobile app development and Laravel for backend management. Let's connect and share experiences!
 
+## GitHub Statistics 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadfaizalawi&show_icons=true&hide=stars&count_private=true&theme=radical)
+
 ## Connect with Me 🤝
 
 Feel free to connect with me through:
