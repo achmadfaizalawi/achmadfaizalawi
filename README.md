@@ -24,8 +24,7 @@ Deepening my understanding of Flutter for mobile app development and Laravel for
 
 ## GitHub and Programming Language Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadfaizalawi&show_icons=true&hide=stars&count_private=true&theme=radical)
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfaizalawi&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=achmadfaizalawi&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" style="height: 200px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfaizalawi&layout=compact&theme=radical" alt="Top Programming Languages" style="height: 200px;">
 
 ## Connect with Me 🤝
 
