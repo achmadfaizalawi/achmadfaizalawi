@@ -1,10 +1,10 @@
-# Achmad Faiz Alawi - Flutter & Web Developer 🚀💻
+# Achmad Faiz Alawi - Multi-Platform Developer 🚀💻
 
-Hi there! I'm Achmad Faiz Alawi, a developer who builds mobile apps with Flutter and web apps with HTML, CSS, JavaScript, and a PHP & MySQL backend. With a background in Engineering Physics (instrumentation and IoT), I enjoy turning real-world problems into useful applications. Let's learn and build together! 👨‍💻✨
+Hi there! I'm Achmad Faiz Alawi, a developer who builds cross-platform mobile and desktop applications with Flutter, and web apps with HTML, CSS, JavaScript, and a PHP & MySQL backend. With a background in Engineering Physics (instrumentation and IoT), I enjoy turning real-world problems into useful applications. Let's learn and build together! 👨‍💻✨
 
 ## What I'm Working On ⚙️
 
-- 📱 **Flutter**: building cross-platform mobile apps
+- 📱💻 **Cross-Platform Apps**: building mobile and desktop applications with Flutter from a single codebase
 - 🌐 **Web Development**: HTML, CSS, and vanilla JavaScript for lightweight, responsive interfaces
 - 🗄️ **Backend**: PHP and MySQL/MariaDB, deployed on shared hosting (cPanel)
 - 🔌 **IoT & Instrumentation**: my background before moving into software development
