@@ -22,7 +22,7 @@ Hi there! I'm Achmad Faiz Alawi, a developer who builds mobile apps with Flutter
 
 ## Featured Project 📌
 
-- **[Cakar Nalar](https://github.com/achmadfaizalawi/cakar-nalar)**: a learning management system for a community outreach program on critical thinking and digital literacy. Features include chapter-based materials, quizzes, a diagnostic test, a final tryout, and an admin panel. Built with HTML, CSS, JavaScript, PHP, and MySQL.
+- **[Cakar Nalar](https://github.com/achmadfaizalawi/cakarnalar_website)**: a learning management system for a community outreach program on critical thinking and digital literacy. Features include chapter-based materials, quizzes, a diagnostic test, a final tryout, and an admin panel. Built with HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## GitHub Statistics 📊
 
